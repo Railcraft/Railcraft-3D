@@ -11,6 +11,7 @@ The mod was created and is still currently maintained by the user going by the n
 
 ## Official Links
 
+* The Official Railcraft Project: https://github.com/CovertJaguar/Railcraft
 * The Blog, Forums, and main download page: http://www.railcraft.info
 * The Wiki: http://railcraft.info/wiki
 * IRC: #railcraft on Esper.net - [WebChat](http://webchat.esper.net/?nick=RailcraftGithub...&channels=railcraft&prompt=1)
