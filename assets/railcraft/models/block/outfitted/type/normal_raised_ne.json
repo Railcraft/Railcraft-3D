@@ -1,0 +1,288 @@
+{
+	"credit": "Made by bballboy2002 with Blockbench, a free, modern block model editor by JannisX11",
+	"textures": {
+		"particle": "#rail"
+	},
+	"elements": [
+		{
+			"name": "Outer Left",
+			"from": [2, 11.3, 2.1999999999999993],
+			"to": [3, 12.3, 26.3],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [2, 0, 3, 16],
+					"texture": "#rail",
+					"rotation": 90
+				},
+				"east": {
+					"uv": [2, 0, 3, 16],
+					"texture": "#rail",
+					"rotation": 90
+				},
+				"south": {
+					"uv": [2, 0, 3, 16],
+					"texture": "#rail",
+					"rotation": 90
+				},
+				"west": {
+					"uv": [2, 0, 3, 16],
+					"texture": "#rail",
+					"rotation": 90
+				},
+				"up": {
+					"uv": [2, 0, 3, 16],
+					"texture": "#rail",
+					"rotation": 90
+				},
+				"down": {
+					"uv": [2, 0, 3, 16],
+					"texture": "#rail",
+					"rotation": 90
+				}
+			},
+			"rotation": {
+				"origin": [10, 18.3, 8.2],
+				"axis": "x",
+				"angle": 45
+			}
+		},
+		{
+			"name": "Tie 6",
+			"from": [1, 7.5, 4],
+			"to": [15, 8.5, 7],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [1, 1, 15, 2],
+					"texture": "#rail",
+					"rotation": 180
+				},
+				"east": {
+					"uv": [14, 1, 15, 3],
+					"texture": "#rail",
+					"rotation": 90
+				},
+				"south": {"uv": [1, 2, 15, 3], "texture": "#rail"},
+				"west": {
+					"uv": [1, 1, 2, 3],
+					"texture": "#rail",
+					"rotation": 270
+				},
+				"up": {"uv": [1, 1, 15, 3], "texture": "#rail"},
+				"down": {"uv": [1, 1, 15, 3], "texture": "#rail"}
+			},
+			"rotation": {
+				"origin": [8, 15.5, 11],
+				"axis": "x",
+				"angle": 45
+			}
+		},
+		{
+			"name": "Tie 1",
+			"from": [1, -4.5, 16],
+			"to": [15, -3.5, 19],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [1, 13, 15, 14],
+					"texture": "#rail",
+					"rotation": 180
+				},
+				"east": {
+					"uv": [14, 13, 15, 15],
+					"texture": "#rail",
+					"rotation": 90
+				},
+				"south": {"uv": [1, 14, 15, 15], "texture": "#rail"},
+				"west": {
+					"uv": [1, 13, 2, 15],
+					"texture": "#rail",
+					"rotation": 270
+				},
+				"up": {"uv": [1, 13, 15, 15], "texture": "#rail"},
+				"down": {"uv": [1, 13, 15, 15], "texture": "#rail"}
+			},
+			"rotation": {
+				"origin": [-4, 3.5, 23],
+				"axis": "x",
+				"angle": 45
+			}
+		},
+		{
+			"name": "Inner Left",
+			"from": [3, 11.3, 2.1999999999999993],
+			"to": [4, 13.3, 26.3],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [3, 0, 4, 16],
+					"texture": "#rail",
+					"rotation": 90
+				},
+				"east": {
+					"uv": [3, 0, 4, 16],
+					"texture": "#rail",
+					"rotation": 90
+				},
+				"south": {
+					"uv": [3, 0, 4, 16],
+					"texture": "#rail",
+					"rotation": 90
+				},
+				"west": {
+					"uv": [3, 0, 4, 16],
+					"texture": "#rail",
+					"rotation": 90
+				},
+				"up": {
+					"uv": [3, 0, 4, 16],
+					"texture": "#rail",
+					"rotation": 90
+				},
+				"down": {
+					"uv": [3, 0, 4, 16],
+					"texture": "#rail",
+					"rotation": 90
+				}
+			},
+			"rotation": {
+				"origin": [11, 18.3, 8.2],
+				"axis": "x",
+				"angle": 45
+			}
+		},
+		{
+			"name": "Outer Right",
+			"from": [13, 11.3, 2.1999999999999993],
+			"to": [14, 12.3, 26.3],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [2, 0, 3, 16],
+					"texture": "#rail",
+					"rotation": 90
+				},
+				"east": {
+					"uv": [2, 0, 3, 16],
+					"texture": "#rail",
+					"rotation": 90
+				},
+				"south": {
+					"uv": [2, 0, 3, 16],
+					"texture": "#rail",
+					"rotation": 90
+				},
+				"west": {
+					"uv": [2, 0, 3, 16],
+					"texture": "#rail",
+					"rotation": 90
+				},
+				"up": {
+					"uv": [2, 0, 3, 16],
+					"texture": "#rail",
+					"rotation": 90
+				},
+				"down": {
+					"uv": [2, 0, 3, 16],
+					"texture": "#rail",
+					"rotation": 90
+				}
+			},
+			"rotation": {
+				"origin": [21, 18.3, 8.2],
+				"axis": "x",
+				"angle": 45
+			}
+		},
+		{
+			"name": "Inner Right",
+			"from": [12, 11.3, 2.1999999999999993],
+			"to": [13, 13.3, 26.3],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [3, 0, 4, 16],
+					"texture": "#rail",
+					"rotation": 90
+				},
+				"east": {
+					"uv": [3, 0, 4, 16],
+					"texture": "#rail",
+					"rotation": 90
+				},
+				"south": {
+					"uv": [3, 0, 4, 16],
+					"texture": "#rail",
+					"rotation": 90
+				},
+				"west": {
+					"uv": [3, 0, 4, 16],
+					"texture": "#rail",
+					"rotation": 90
+				},
+				"up": {
+					"uv": [3, 0, 4, 16],
+					"texture": "#rail",
+					"rotation": 90
+				},
+				"down": {
+					"uv": [3, 0, 4, 16],
+					"texture": "#rail",
+					"rotation": 90
+				}
+			},
+			"rotation": {
+				"origin": [20, 18.3, 8.2],
+				"axis": "x",
+				"angle": 45
+			}
+		},
+		{
+			"name": "Ties 2-5",
+			"from": [1, 4.5, 7],
+			"to": [15, 5.5, 18.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [1, 4, 15, 5],
+					"texture": "#rail",
+					"rotation": 180
+				},
+				"east": {
+					"uv": [14, 4, 15, 12],
+					"texture": "#rail",
+					"rotation": 90
+				},
+				"south": {"uv": [1, 11, 15, 12], "texture": "#rail"},
+				"west": {
+					"uv": [1, 4, 2, 12],
+					"texture": "#rail",
+					"rotation": 270
+				},
+				"up": {"uv": [1, 4, 15, 12], "texture": "#rail"},
+				"down": {"uv": [1, 4, 15, 12], "texture": "#rail"}
+			},
+			"rotation": {
+				"origin": [0, 12.5, 14],
+				"axis": "x",
+				"angle": 45
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 0, 0],
+			"translation": [-0.5, 0, 0],
+			"scale": [1, 0, 0]
+		},
+		"thirdperson_lefthand": {},
+		"firstperson_righthand": {},
+		"firstperson_lefthand": {},
+		"head": {},
+		"ground": {},
+		"fixed": {},
+		"gui": {}
+	},
+	"ambientocclusion": false
+}
