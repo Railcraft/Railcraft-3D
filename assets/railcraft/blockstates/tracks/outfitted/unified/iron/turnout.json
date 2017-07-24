@@ -1,0 +1,47 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "railcraft:outfitted/unified/track_turnout_0",
+    "textures": {"rail": "railcraft:blocks/tracks/outfitted/unified/iron/turnout_0"}
+  },
+  "variants": {
+    "state": {
+      "0": {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/unified/iron/turnout_0"},
+        "model": "railcraft:outfitted/unified/track_turnout_0"
+      },
+      "1": {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/unified/iron/turnout_1"},
+        "model": "railcraft:outfitted/unified/track_turnout_1"
+      },
+      "2": {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/unified/iron/turnout_2"},
+        "model": "railcraft:outfitted/unified/track_turnout_2"
+      },
+      "3": {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/unified/iron/turnout_3"},
+        "model": "railcraft:outfitted/unified/track_turnout_3"
+      },
+      "4": {
+        "model": "railcraft:outfitted/unified/track_turnout_4",
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/unified/iron/turnout_0"}
+      },
+      "5": {
+        "model": "railcraft:outfitted/unified/track_turnout_5",
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/unified/iron/turnout_1"}
+      },
+      "6": {
+        "model": "railcraft:outfitted/unified/track_turnout_6",
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/unified/iron/turnout_2"}
+      },
+      "7": {
+        "model": "railcraft:outfitted/unified/track_turnout_7",
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/unified/iron/turnout_3"}
+      }
+    },
+    "shape": {
+      "north_south": {},
+      "east_west": {"y": 90}
+    }
+  }
+}
