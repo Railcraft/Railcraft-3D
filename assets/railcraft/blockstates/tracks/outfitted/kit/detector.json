@@ -1,0 +1,245 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "railcraft:outfitted/kit/detector/flat_0",
+    "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/detector_0"}
+  },
+  "variants": {
+    "shape=north_south,state=0": [
+      {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/detector_0"},
+        "model": "railcraft:outfitted/kit/detector/flat_0"
+      }
+    ],
+    "shape=east_west,state=0": [
+      {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/detector_0"},
+        "model": "railcraft:outfitted/kit/detector/flat_0",
+        "y": 90
+      }
+    ],
+    "shape=ascending_east,state=0": [
+      {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/detector_0"},
+        "model": "railcraft:outfitted/kit/detector/raised_ne_0",
+        "y": 90
+      }
+    ],
+    "shape=ascending_west,state=0": [
+      {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/detector_0"},
+        "model": "railcraft:outfitted/kit/detector/raised_sw_0",
+        "y": 90
+      }
+    ],
+    "shape=ascending_north,state=0": [
+      {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/detector_0"},
+        "model": "railcraft:outfitted/kit/detector/raised_ne_0"
+      }
+    ],
+    "shape=ascending_south,state=0": [
+      {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/detector_0"},
+        "model": "railcraft:outfitted/kit/detector/raised_sw_0"
+      }
+    ],
+    "shape=north_south,state=1": [
+      {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/detector_1"},
+        "model": "railcraft:outfitted/kit/detector/flat_1"
+      }
+    ],
+    "shape=east_west,state=1": [
+      {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/detector_1"},
+        "model": "railcraft:outfitted/kit/detector/flat_1",
+        "y": 90
+      }
+    ],
+    "shape=ascending_east,state=1": [
+      {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/detector_1"},
+        "model": "railcraft:outfitted/kit/detector/raised_ne_1",
+        "y": 90
+      }
+    ],
+    "shape=ascending_west,state=1": [
+      {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/detector_1"},
+        "model": "railcraft:outfitted/kit/detector/raised_sw_1",
+        "y": 90
+      }
+    ],
+    "shape=ascending_north,state=1": [
+      {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/detector_1"},
+        "model": "railcraft:outfitted/kit/detector/raised_ne_1"
+      }
+    ],
+    "shape=ascending_south,state=1": [
+      {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/detector_1"},
+        "model": "railcraft:outfitted/kit/detector/raised_sw_1"
+      }
+    ],
+    "shape=north_south,state=2": [
+      {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/detector_1"},
+        "model": "railcraft:outfitted/kit/detector/flat_1",
+        "y": 180
+      }
+    ],
+    "shape=east_west,state=2": [
+      {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/detector_1"},
+        "model": "railcraft:outfitted/kit/detector/flat_1",
+        "y": 270
+      }
+    ],
+    "shape=ascending_east,state=2": [
+      {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/detector_2"},
+        "model": "railcraft:outfitted/kit/detector/raised_ne_2",
+        "y": 90
+      }
+    ],
+    "shape=ascending_west,state=2": [
+      {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/detector_2"},
+        "model": "railcraft:outfitted/kit/detector/raised_sw_2",
+        "y": 90
+      }
+    ],
+    "shape=ascending_north,state=2": [
+      {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/detector_2"},
+        "model": "railcraft:outfitted/kit/detector/raised_ne_2"
+      }
+    ],
+    "shape=ascending_south,state=2": [
+      {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/detector_2"},
+        "model": "railcraft:outfitted/kit/detector/raised_sw_2"
+      }
+    ],
+    "shape=north_south,state=3": [
+      {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/detector_3"},
+        "model": "railcraft:outfitted/kit/detector/flat_3"
+      }
+    ],
+    "shape=east_west,state=3": [
+      {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/detector_3"},
+        "model": "railcraft:outfitted/kit/detector/flat_3",
+        "y": 90
+      }
+    ],
+    "shape=ascending_east,state=3": [
+      {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/detector_3"},
+        "model": "railcraft:outfitted/kit/detector/raised_ne_3",
+        "y": 90
+      }
+    ],
+    "shape=ascending_west,state=3": [
+      {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/detector_3"},
+        "model": "railcraft:outfitted/kit/detector/raised_sw_3",
+        "y": 90
+      }
+    ],
+    "shape=ascending_north,state=3": [
+      {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/detector_3"},
+        "model": "railcraft:outfitted/kit/detector/raised_ne_3"
+      }
+    ],
+    "shape=ascending_south,state=3": [
+      {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/detector_3"},
+        "model": "railcraft:outfitted/kit/detector/raised_sw_3"
+      }
+    ],
+    "shape=north_south,state=4": [
+      {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/detector_4"},
+        "model": "railcraft:outfitted/kit/detector/flat_4"
+      }
+    ],
+    "shape=east_west,state=4": [
+      {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/detector_4"},
+        "model": "railcraft:outfitted/kit/detector/flat_4",
+        "y": 90
+      }
+    ],
+    "shape=ascending_east,state=4": [
+      {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/detector_4"},
+        "model": "railcraft:outfitted/kit/detector/raised_ne_4",
+        "y": 90
+      }
+    ],
+    "shape=ascending_west,state=4": [
+      {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/detector_4"},
+        "model": "railcraft:outfitted/kit/detector/raised_sw_4",
+        "y": 90
+      }
+    ],
+    "shape=ascending_north,state=4": [
+      {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/detector_4"},
+        "model": "railcraft:outfitted/kit/detector/raised_ne_4"
+      }
+    ],
+    "shape=ascending_south,state=4": [
+      {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/detector_4"},
+        "model": "railcraft:outfitted/kit/detector/raised_sw_4"
+      }
+    ],
+    "shape=north_south,state=5": [
+      {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/detector_4"},
+        "model": "railcraft:outfitted/kit/detector/flat_4",
+        "y": 180
+      }
+    ],
+    "shape=east_west,state=5": [
+      {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/detector_4"},
+        "model": "railcraft:outfitted/kit/detector/flat_4",
+        "y": 270
+      }
+    ],
+    "shape=ascending_east,state=5": [
+      {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/detector_5"},
+        "model": "railcraft:outfitted/kit/detector/raised_ne_5",
+        "y": 90
+      }
+    ],
+    "shape=ascending_west,state=5": [
+      {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/detector_5"},
+        "model": "railcraft:outfitted/kit/detector/raised_sw_5",
+        "y": 90
+      }
+    ],
+    "shape=ascending_north,state=5": [
+      {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/detector_5"},
+        "model": "railcraft:outfitted/kit/detector/raised_ne_5"
+      }
+    ],
+    "shape=ascending_south,state=5": [
+      {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/detector_5"},
+        "model": "railcraft:outfitted/kit/detector/raised_sw_5"
+      }
+    ]
+  }
+}

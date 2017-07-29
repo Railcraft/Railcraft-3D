@@ -1,0 +1,32 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {"texture": "minecraft:blocks/planks_oak"}
+  },
+  "variants": {
+    "shape=east_west,state=1": [{"y": 270}],
+    "shape=east_west,state=3": [{"y": 270}],
+    "state": {
+      "0": {
+        "model": "railcraft:fence_gate_closed_wide",
+        "uvlock": true
+      },
+      "1": {
+        "model": "railcraft:fence_gate_closed_wide",
+        "uvlock": true
+      },
+      "2": {
+        "model": "railcraft:fence_gate_open_wide",
+        "uvlock": true
+      },
+      "3": {
+        "model": "railcraft:fence_gate_open_wide",
+        "uvlock": true
+      }
+    },
+    "shape": {
+      "north_south": {},
+      "east_west": {"y": 90}
+    }
+  }
+}
