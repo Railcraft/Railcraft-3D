@@ -1,6 +1,6 @@
 How to install:
 1. Download and install Railcraft
-2. Click the green Clone or Download button, then select Download ZIP
+2. Click Releases, then download the ZIP
 3. Extract the folder from the ZIP 
 4. Go to your Minecraft directory, instructions vary by launcher
 5. Place the Railcraft 3D-master folder from the zip into the resourcepacks folder in your Minecraft directory.
