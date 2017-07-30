@@ -1,0 +1,21 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "railcraft:outfitted/kit/common",
+    "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/messenger_0"}
+  },
+  "variants": {
+    "state": {
+      "0": {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/messenger_0"}
+      },
+      "1": {
+        "textures": {"rail": "railcraft:blocks/tracks/outfitted/kit/messenger_1"}
+      }
+    },
+    "shape": {
+      "north_south": {},
+      "east_west": {"y": 90}
+    }
+  }
+}
