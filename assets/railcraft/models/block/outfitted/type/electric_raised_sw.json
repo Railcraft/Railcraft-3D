@@ -1,8 +1,6 @@
 {
 	"credit": "Made by bballboy2002 with Blockbench, a free, modern block model editor by JannisX11",
-	"textures": {
-		"particle": "#rail"
-	},
+	"textures": {},
 	"elements": [
 		{
 			"name": "Tie 4",
@@ -175,8 +173,8 @@
 		},
 		{
 			"name": "Electric 2",
-			"from": [7, 3.9000000000000004, -8],
-			"to": [9, 4.9, -1.9000000000000004],
+			"from": [7, 3.3, -7.4],
+			"to": [9, 5.3, -5.7],
 			"shade": true,
 			"faces": {
 				"north": {
@@ -191,15 +189,15 @@
 				"down": {"uv": [7, 0, 9, 16], "texture": "#rail"}
 			},
 			"rotation": {
-				"origin": [15, 11.9, 0],
+				"origin": [15, 11.299999999999999, 0.5999999999999996],
 				"axis": "x",
 				"angle": -45
 			}
 		},
 		{
 			"name": "Electric 1",
-			"from": [7, 16.1, 4],
-			"to": [9, 17.1, 10.1],
+			"from": [7, 18.5, 7.800000000000001],
+			"to": [9, 20.5, 10.450000000000001],
 			"shade": true,
 			"faces": {
 				"north": {
@@ -214,7 +212,7 @@
 				"down": {"uv": [7, 0, 9, 16], "texture": "#rail"}
 			},
 			"rotation": {
-				"origin": [15, 24.1, 12],
+				"origin": [15, 26.5, 15.8],
 				"axis": "x",
 				"angle": -45
 			}
