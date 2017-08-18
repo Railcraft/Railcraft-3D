@@ -1,6 +1,8 @@
 {
 	"credit": "Made by bballboy2002 with Blockbench, a free, modern block model editor by JannisX11",
-	"textures": {},
+	"textures": {
+	"particle": "#rail"
+	},
 	"elements": [
 		{
 			"name": "Tie 4",
