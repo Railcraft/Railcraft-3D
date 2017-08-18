@@ -1,8 +1,6 @@
 {
 	"credit": "Made by bballboy2002 with Blockbench, a free, modern block model editor by JannisX11",
-	"textures": {
-		"particle": "#rail"
-	},
+	"textures": {},
 	"elements": [
 		{
 			"name": "Outer Left",
@@ -271,8 +269,8 @@
 		},
 		{
 			"name": "Electric 1",
-			"from": [7, -1.9, 15.299999999999999],
-			"to": [9, -0.8999999999999999, 20.799999999999997],
+			"from": [7, -5.6, 17.7],
+			"to": [9, -3.5999999999999996, 18.9],
 			"shade": true,
 			"faces": {
 				"north": {
@@ -287,13 +285,13 @@
 				"down": {"uv": [7, 0, 9, 16], "texture": "#rail"}
 			},
 			"rotation": {
-				"origin": [15, 5.1000000000000005, 21.299999999999997],
+				"origin": [15, 1.4000000000000008, 23.7],
 				"axis": "x",
 				"angle": 45
 			}
 		},
 		{
-			"name": "Electric 2",
+			"name": "Electric L2",
 			"from": [7, 6.4, 5.7],
 			"to": [9, 7.4, 7],
 			"shade": true,
@@ -339,9 +337,9 @@
 			}
 		},
 		{
-			"name": "Electric L2",
-			"from": [7, 11.3, 2.1999999999999993],
-			"to": [9, 12.3, 9.399999999999999],
+			"name": "Electric 2",
+			"from": [7, 10.6, 1.5],
+			"to": [9, 12.6, 4.5],
 			"shade": true,
 			"faces": {
 				"north": {
@@ -356,7 +354,7 @@
 				"down": {"uv": [7, 0, 9, 16], "texture": "#rail"}
 			},
 			"rotation": {
-				"origin": [15, 18.3, 8.2],
+				"origin": [15, 17.6, 7.5],
 				"axis": "x",
 				"angle": 45
 			}
