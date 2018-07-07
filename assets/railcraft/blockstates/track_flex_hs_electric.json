@@ -31,25 +31,25 @@
         "textures": {
           "rail": "railcraft:blocks/tracks/flex/high_speed_electric_turned"
         },
-        "model": "railcraft:track_curved_electric"
+        "model": "railcraft:track_curved_hs_electric"
       },
       "south_west": {
         "textures": {
           "rail": "railcraft:blocks/tracks/flex/high_speed_electric_turned"
         },
-        "model": "railcraft:track_curved_electric", "y": 90
+        "model": "railcraft:track_curved_hs_electric", "y": 90
       },
       "north_west": {
         "textures": {
           "rail": "railcraft:blocks/tracks/flex/high_speed_electric_turned"
         },
-        "model": "railcraft:track_curved_electric", "y": 180
+        "model": "railcraft:track_curved_hs_electric", "y": 180
       },
       "north_east": {
         "textures": {
           "rail": "railcraft:blocks/tracks/flex/high_speed_electric_turned"
         },
-        "model": "railcraft:track_curved_electric", "y": 270
+        "model": "railcraft:track_curved_hs_electric", "y": 270
       }
     }
   }
