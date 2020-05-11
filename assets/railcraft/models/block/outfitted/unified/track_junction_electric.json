@@ -254,7 +254,7 @@
 		},
 		{
 			"name": "Outer Rail NNW",
-			"from": [2, 1, 0],
+			"from": [2, 1, -0.01],
 			"to": [3, 2, 3],
 			"shade": true,
 			"faces": {
@@ -268,7 +268,7 @@
 		},
 		{
 			"name": "Outer Rail NNE",
-			"from": [13, 1, 0],
+			"from": [13, 1, -0.01],
 			"to": [14, 2, 3],
 			"shade": true,
 			"faces": {
@@ -283,7 +283,7 @@
 		{
 			"name": "Outer Rail SSE",
 			"from": [13, 1, 13],
-			"to": [14, 2, 16],
+			"to": [14, 2, 16.01],
 			"shade": true,
 			"faces": {
 				"north": {"uv": [2, 2, 3, 3], "texture": "#rail"},
@@ -297,7 +297,7 @@
 		{
 			"name": "Outer Rail SSW",
 			"from": [2, 1, 13],
-			"to": [3, 2, 16],
+			"to": [3, 2, 16.01],
 			"shade": true,
 			"faces": {
 				"north": {"uv": [2, 2, 3, 3], "texture": "#rail"},
@@ -310,7 +310,7 @@
 		},
 		{
 			"name": "Outer Rail WNW",
-			"from": [0, 1, 2],
+			"from": [-0.01, 1, 2],
 			"to": [2, 2, 3],
 			"shade": true,
 			"faces": {
@@ -325,7 +325,7 @@
 		{
 			"name": "Outer Rail ENE",
 			"from": [14, 1, 2],
-			"to": [16, 2, 3],
+			"to": [16.01, 2, 3],
 			"shade": true,
 			"faces": {
 				"north": {"uv": [2, 2, 3, 3], "texture": "#rail"},
@@ -339,7 +339,7 @@
 		{
 			"name": "Outer Rail ESE",
 			"from": [14, 1, 13],
-			"to": [16, 2, 14],
+			"to": [16.01, 2, 14],
 			"shade": true,
 			"faces": {
 				"north": {"uv": [2, 2, 3, 3], "texture": "#rail"},
@@ -352,7 +352,7 @@
 		},
 		{
 			"name": "Outer Rail WSW",
-			"from": [0, 1, 13],
+			"from": [-0.01, 1, 13],
 			"to": [2, 2, 14],
 			"shade": true,
 			"faces": {
@@ -422,7 +422,7 @@
 		},
 		{
 			"name": "Inner Rail NNW",
-			"from": [3, 1, 0],
+			"from": [3, 1, -0.01],
 			"to": [4, 3, 4],
 			"shade": true,
 			"faces": {
@@ -436,7 +436,7 @@
 		},
 		{
 			"name": "Inner Rail NNE",
-			"from": [12, 1, 0],
+			"from": [12, 1, -0.01],
 			"to": [13, 3, 4],
 			"shade": true,
 			"faces": {
@@ -451,7 +451,7 @@
 		{
 			"name": "Inner Rail SSE",
 			"from": [12, 1, 12],
-			"to": [13, 3, 16],
+			"to": [13, 3, 16.01],
 			"shade": true,
 			"faces": {
 				"north": {"uv": [3, 1, 4, 2], "texture": "#rail"},
@@ -465,7 +465,7 @@
 		{
 			"name": "Inner Rail SSW",
 			"from": [3, 1, 12],
-			"to": [4, 3, 16],
+			"to": [4, 3, 16.01],
 			"shade": true,
 			"faces": {
 				"north": {"uv": [3, 1, 4, 2], "texture": "#rail"},
@@ -478,7 +478,7 @@
 		},
 		{
 			"name": "Inner Rail WNW",
-			"from": [0, 1, 3],
+			"from": [-0.01, 1, 3],
 			"to": [3, 3, 4],
 			"shade": true,
 			"faces": {
@@ -493,7 +493,7 @@
 		{
 			"name": "Inner Rail ENE",
 			"from": [13, 1, 3],
-			"to": [16, 3, 4],
+			"to": [16.01, 3, 4],
 			"shade": true,
 			"faces": {
 				"north": {"uv": [3, 1, 4, 2], "texture": "#rail"},
@@ -507,7 +507,7 @@
 		{
 			"name": "Inner Rail ESE",
 			"from": [13, 1, 12],
-			"to": [16, 3, 13],
+			"to": [16.01, 3, 13],
 			"shade": true,
 			"faces": {
 				"north": {"uv": [3, 1, 4, 2], "texture": "#rail"},
@@ -520,7 +520,7 @@
 		},
 		{
 			"name": "Inner Rail WSW",
-			"from": [0, 1, 12],
+			"from": [-0.01, 1, 12],
 			"to": [3, 3, 13],
 			"shade": true,
 			"faces": {
@@ -590,7 +590,7 @@
 		},
 		{
 			"name": "Electric W",
-			"from": [0, 1, 7],
+			"from": [-0.01, 1, 7],
 			"to": [2, 2, 9],
 			"shade": true,
 			"faces": {
@@ -608,7 +608,7 @@
 		},
 		{
 			"name": "Electric N",
-			"from": [7, 1, 0],
+			"from": [7, 1, -0.01],
 			"to": [9, 2, 2],
 			"shade": true,
 			"faces": {
@@ -627,7 +627,7 @@
 		{
 			"name": "Electric S",
 			"from": [7, 1, 14],
-			"to": [9, 2, 16],
+			"to": [9, 2, 16.01],
 			"shade": true,
 			"faces": {
 				"north": {"uv": [0, 0, 2, 1], "texture": "#rail"},
@@ -641,7 +641,7 @@
 		{
 			"name": "Electric E",
 			"from": [14, 1, 7],
-			"to": [16, 2, 9],
+			"to": [16.01, 2, 9],
 			"shade": true,
 			"faces": {
 				"north": {"uv": [9, 7, 11, 8], "texture": "#rail"},
