@@ -1,8 +1,8 @@
 {
-	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11",
+	"credit": "Made by bballboy2002 with Blockbench, a free, modern block model editor by JannisX11",
 	"textures": {
-		"0": "blocks/rail_activator_powered",
-		"particle": "blocks/rail_activator_powered"
+		"0": "block/powered_rail_on",
+		"particle": "block/powered_rail_on"
 	},
 	"elements": [
 		{
@@ -414,6 +414,68 @@
 			},
 			"rotation": {
 				"origin": [6, 13.4, 13.099999999999998],
+				"axis": "x",
+				"angle": 45
+			}
+		},
+		{
+			"name": "Golden Right",
+			"from": [11, 11.3, 2.1999999999999993],
+			"to": [12, 12.3, 26.3],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [11, 0, 12, 1],
+					"texture": "#0",
+					"rotation": 90
+				},
+				"east": {
+					"uv": [2, 0, 3, 16],
+					"texture": "#0",
+					"rotation": 90
+				},
+				"south": {"uv": [11, 15, 12, 16], "texture": "#0"},
+				"west": {
+					"uv": [11, 0, 12, 16],
+					"texture": "#0",
+					"rotation": 270
+				},
+				"up": {"uv": [11, 0, 12, 16], "texture": "#0"},
+				"down": {
+					"uv": [11, 0, 12, 16],
+					"texture": "#0",
+					"rotation": 180
+				}
+			},
+			"rotation": {
+				"origin": [19, 18.3, 8.2],
+				"axis": "x",
+				"angle": 45
+			}
+		},
+		{
+			"name": "Golden Left",
+			"from": [4, 11.3, 2.1999999999999993],
+			"to": [5, 12.3, 26.3],
+			"shade": true,
+			"faces": {
+				"north": {"uv": [4, 0, 5, 1], "texture": "#0"},
+				"east": {
+					"uv": [4, 0, 5, 16],
+					"texture": "#0",
+					"rotation": 90
+				},
+				"south": {"uv": [4, 15, 5, 16], "texture": "#0"},
+				"west": {"uv": [4, 0, 5, 16], "texture": "#0"},
+				"up": {"uv": [4, 0, 5, 16], "texture": "#0"},
+				"down": {
+					"uv": [4, 0, 5, 16],
+					"texture": "#0",
+					"rotation": 180
+				}
+			},
+			"rotation": {
+				"origin": [12, 18.3, 8.2],
 				"axis": "x",
 				"angle": 45
 			}

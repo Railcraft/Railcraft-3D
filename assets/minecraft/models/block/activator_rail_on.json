@@ -1,14 +1,14 @@
 {
 	"credit": "Made by bballboy2002 with Blockbench, a free, modern block model editor by JannisX11",
 	"textures": {
-		"particle": "blocks/rail_activator_powered",
-		"0": "blocks/rail_activator_powered"
+		"particle": "block/activator_rail_on",
+		"0": "block/activator_rail_on"
 	},
 	"elements": [
 		{
 			"name": "Outer Left",
-			"from": [2, 1, -0.01],
-			"to": [3, 2, 16.01],
+			"from": [2, 1, 0],
+			"to": [3, 2, 16],
 			"shade": true,
 			"faces": {
 				"north": {
@@ -50,8 +50,8 @@
 		},
 		{
 			"name": "Inner Left",
-			"from": [3, 1, -0.01],
-			"to": [4, 3, 16.01],
+			"from": [3, 1, 0],
+			"to": [4, 3, 16],
 			"shade": true,
 			"faces": {
 				"north": {
@@ -93,8 +93,8 @@
 		},
 		{
 			"name": "Outer Right",
-			"from": [13, 1, -0.01],
-			"to": [14, 2, 16.01],
+			"from": [13, 1, 0],
+			"to": [14, 2, 16],
 			"shade": true,
 			"faces": {
 				"north": {
@@ -136,8 +136,8 @@
 		},
 		{
 			"name": "Inner Right",
-			"from": [12, 1, -0.01],
-			"to": [13, 3, 16.01],
+			"from": [12, 1, 0],
+			"to": [13, 3, 16],
 			"shade": true,
 			"faces": {
 				"north": {"uv": [12, 0, 13, 16], "texture": "#0"},
