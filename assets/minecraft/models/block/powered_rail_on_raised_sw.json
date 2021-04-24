@@ -1,8 +1,8 @@
 {
 	"credit": "Made by bballboy2002 with Blockbench, a free, modern block model editor by JannisX11",
 	"textures": {
-		"0": "blocks/rail_golden",
-		"particle": "blocks/rail_golden"
+		"0": "block/powered_rail_on",
+		"particle": "block/powered_rail_on"
 	},
 	"elements": [
 		{
