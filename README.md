@@ -1,8 +1,12 @@
 # Railcraft-3D
 A Minecraft Resource Pack to enable 3D Track models for Railcraft and Vanilla Track.
+
 Currently supported Minecraft versions:
+
 1.10
+
 1.12
+
 1.16+ Vanilla only, there are many bugs with this pack in Railcraft betas for these versions
 
 ## What is Railcraft?
